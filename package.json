@@ -1,0 +1,13 @@
+{
+  "name": "yapper-discord-bridge",
+  "version": "1.0.0",
+  "description": "Bidirectional message bridge between Discord and Yapper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
